@@ -18,10 +18,11 @@ jobs:
       - name: Install uv
         run: curl -LsSf https://astral.sh/uv/install.sh | sh
 
-      - name: Setup uv environment
-        run: |
-          ~/.cargo/bin/uv sync
+      - name: Add uv to PATH
+        run: echo "~/.local/bin" >> $GITHUB_PATH
+
+      - name: Sync environment
+        run: uv sync
 
       - name: Run tests
-        run: |
-          ~/.cargo/bin/uv run pytest
+        run: uv run pytest
