@@ -1,0 +1,18 @@
+[project]
+name = "my-uv-template"
+version = "0.1.0"
+description = "A simple Python template using uv"
+readme = "README.md"
+requires-python = ">=3.11"
+
+authors = [
+    { name = "", email = "" },
+]
+
+dependencies = [
+    "pytest>=9.0.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
